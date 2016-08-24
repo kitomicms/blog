@@ -14,6 +14,8 @@ $heroku create
   - create a repo/workplace for you to push
 $heroku open
   - open in browser
+$git push heroku master
+  - push to heroku
 ```
 - gemfile
 
