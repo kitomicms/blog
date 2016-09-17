@@ -44,4 +44,7 @@ http://www.investing.com/economic-calendar/cftc-s-p-500-speculative-positions-16
 
 ---
 
+COT index
+http://www.seeitmarket.com/how-to-use-the-cot-report-for-trading-13285/
+
 COT index = 100 x (current Net – Minimum Net) / (maximum Net – Minimum Net)
