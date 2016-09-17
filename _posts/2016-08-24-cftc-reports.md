@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "CFTC reports"
+category: "finance"
+tag: "cftc"
+---
 
 Source:
 http://www.cftc.gov/marketreports/commitmentsoftraders/index.htm
