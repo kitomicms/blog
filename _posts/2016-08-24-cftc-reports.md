@@ -42,3 +42,6 @@ http://www.investing.com/economic-calendar/cftc-s-p-500-speculative-positions-16
 - Look for E-MINI S&P 500 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE
 - Minus Non-commercial long commitments with short's
 
+---
+
+COT index = 100 x (current Net – Minimum Net) / (maximum Net – Minimum Net)
