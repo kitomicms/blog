@@ -6,7 +6,9 @@ tag: "cftc"
 ---
 
 CFTC - Commodity futures trading commission
+
 CME - Chicago Mercantile Exchange
+
 COT - Commitments of Traders Report
 
 Source:
@@ -30,6 +32,7 @@ Historical data
 
 Example:
 CFTC S&P 500 speculative net positions (Non-commercial)
+Note: Data is up to the respective week's Tuesday
 
 http://www.investing.com/economic-calendar/cftc-s-p-500-speculative-positions-1619
 - Go to <http://www.cftc.gov/MARKETREPORTS/COMMITMENTSOFTRADERS/INDEX.HTM>
