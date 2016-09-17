@@ -48,5 +48,10 @@ http://www.investing.com/economic-calendar/cftc-s-p-500-speculative-positions-16
 
 COT index
 http://www.seeitmarket.com/how-to-use-the-cot-report-for-trading-13285/
+- COT index = 100 x (current Net – Minimum Net) / (maximum Net – Minimum Net)
+- Set a look back period to extract the max and min
+- this method applies to a specific group of investor
+- for commercial, higher index means bullish
 
-COT index = 100 x (current Net – Minimum Net) / (maximum Net – Minimum Net)
+http://www.babypips.com/school/undergraduate/freshman-year/market-sentiment/your-very-own-cot-indicator.html
+Difference = Net position of Large Speculators – Net position of Commercials
