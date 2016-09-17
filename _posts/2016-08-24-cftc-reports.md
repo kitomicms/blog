@@ -11,6 +11,8 @@ CME - Chicago Mercantile Exchange
 
 COT - Commitments of Traders Report
 
+CBOE - Chicago Board Options Exchange
+
 Source:
 http://www.cftc.gov/marketreports/commitmentsoftraders/index.htm
 
