@@ -7,11 +7,11 @@ tag: "cftc"
 
 CFTC - Commodity futures trading commission
 
-CME - Chicago Mercantile Exchange
+CME - Chicago Mercantile Exchange (e.g. E-mini S&P 500)
 
 COT - Commitments of Traders Report
 
-CBOE - Chicago Board Options Exchange
+CBOE - Chicago Board Options Exchange (e.g. VIX futures)
 
 Source:
 http://www.cftc.gov/marketreports/commitmentsoftraders/index.htm
