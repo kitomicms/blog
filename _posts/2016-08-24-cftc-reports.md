@@ -25,3 +25,13 @@ http://www.cftc.gov/MarketReports/CommitmentsofTraders/HistoricalViewable/cotvar
 Historical data
 http://www.cftc.gov/MarketReports/CommitmentsofTraders/HistoricalViewable/index.htm
 http://www.cftc.gov/MarketReports/CommitmentsofTraders/HistoricalCompressed/index.htm
+
+Example:
+CFTC S&P 500 speculative net positions (Non-commercial)
+http://www.investing.com/economic-calendar/cftc-s-p-500-speculative-positions-1619
+- Go to http://www.cftc.gov/MARKETREPORTS/COMMITMENTSOFTRADERS/INDEX.HTM
+- Scroll to CURRENT LEGACY REPORTS
+- Look for Chicago Mercantile Exchange
+- Click Futures Only, Short format
+- Look for E-MINI S&P 500 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE
+- Minus Non-commercial long commitments with short's
